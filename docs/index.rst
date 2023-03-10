@@ -7,4 +7,13 @@ Sezione admin
 -------------
 
 .. toctree::
+   :maxdepth: 3
    associate-file-types-to-dataset-types
+   create-templates-for-objects
+      test-sottomenu
+         testsottomenu2
+   customise-parents-and-children-sections-in-object-forms
+   customise-the-main-menu
+   database-navigation-in-admin-ui
+   enable-archiving-to-long-term-storage
+      testmenu3
