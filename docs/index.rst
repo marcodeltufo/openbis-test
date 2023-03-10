@@ -1,10 +1,14 @@
-Questo è un titolo di test
-==========================
+*************************
+Titolo documentazione OPENBIS
+*************************
+
+Questa è una sezione di test
+============================
 
 In questa pagina è presente un indice di test:
 
-Sezione admin
--------------
+Sotto-sezione admin
+-------------------
 
 .. toctree::
    :maxdepth: 2
