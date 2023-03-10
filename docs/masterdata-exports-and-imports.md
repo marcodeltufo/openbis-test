@@ -11,7 +11,7 @@ one openBIS instance and import it in another one via the admin UI.
  
 
 Masterdata export
-=================
+----
 
  
 
@@ -41,7 +41,7 @@ openBIS.
  
 
 Masterdata import
-=================
+----
 
  
 

@@ -6,7 +6,7 @@ Customise the Main Menu
  
 
 Main Menu Sections
-------------------
+----
 
   
 The main menu can be customised from the **Settings**, under
@@ -89,7 +89,7 @@ The main menu can be customised from the **Settings**, under
  
 
 Lab Notebook menu
------------------
+----
 
  
 
