@@ -7,7 +7,7 @@ Sezione admin
 -------------
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    associate-file-types-to-dataset-types
    create-templates-for-objects
    customise-parents-and-children-sections-in-object-forms
