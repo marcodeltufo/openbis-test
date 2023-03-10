@@ -7,5 +7,4 @@ Sezione admin
 -------------
 
 .. toctree::
-   install
-   support
+   associate-file-types-to-dataset-types
