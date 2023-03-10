@@ -11,7 +11,7 @@ Sotto-sezione admin
 -------------------
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
    associate-file-types-to-dataset-types
    create-templates-for-objects
