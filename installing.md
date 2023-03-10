@@ -1,12 +1,3 @@
-5.  
-6.  [<span itemprop="name">Admin
-    Documentation</span>](https://openbis.ch/index.php/docs/admin-documentation/)
-7.  
-8.  [<span itemprop="name">Customise Inventory of Materials and
-    Samples</span>](https://openbis.ch/index.php/docs/admin-documentation/customise-inventory-of-materials-and-samples/)
-9.  
-10. <span class="current">Create Collections of Materials</span>
-
 Create Collections of Materials
 ===============================
 
