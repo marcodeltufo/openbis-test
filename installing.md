@@ -72,7 +72,3 @@ like in the *Experimental Step* form.
 <figure>
 <img src="https://openbis.ch/wp-content/uploads/2022/03/comments-gneral-protocol-as-parent-1024x549.png" class="alignnone size-large wp-image-3097" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://openbis.ch/wp-content/uploads/2022/03/comments-gneral-protocol-as-parent-1024x549.png 1024w, https://openbis.ch/wp-content/uploads/2022/03/comments-gneral-protocol-as-parent-300x161.png 300w, https://openbis.ch/wp-content/uploads/2022/03/comments-gneral-protocol-as-parent-768x412.png 768w, https://openbis.ch/wp-content/uploads/2022/03/comments-gneral-protocol-as-parent-700x375.png 700w, https://openbis.ch/wp-content/uploads/2022/03/comments-gneral-protocol-as-parent.png 1555w" width="1024" height="549" alt="" />
 </figure>
-
-Updated on November 30, 2022
-
-### Doc navigation
