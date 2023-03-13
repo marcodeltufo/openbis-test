@@ -10,7 +10,7 @@ UI, as shown below.
 
  
 
-.. image::https://openbis.ch/wp-content/uploads/2022/11/database-navigation-amdin-ui.png
+.. image:: https://openbis.ch/wp-content/uploads/2022/11/database-navigation-amdin-ui.png
 
  
 
@@ -34,7 +34,7 @@ It is possible to filter the menu by code or name of the desired entity.
 
  
 
-.. image::https://openbis.ch/wp-content/uploads/2022/11/database-filter-admin-ui-1.png
+.. image:: https://openbis.ch/wp-content/uploads/2022/11/database-filter-admin-ui-1.png
 
  
 
@@ -56,7 +56,7 @@ menu, as show in the picture below.
 
  
 
-.. image::https://openbis.ch/wp-content/uploads/2022/11/database-navigation-tabs-1024x496.png
+.. image:: https://openbis.ch/wp-content/uploads/2022/11/database-navigation-tabs-1024x496.png
 
  
 
@@ -75,7 +75,7 @@ ascending date; sorting by descending date.
 
  
 
-.. image::https://openbis.ch/wp-content/uploads/2022/11/Screenshot-2022-11-30-at-17.25.24.png
+.. image:: https://openbis.ch/wp-content/uploads/2022/11/Screenshot-2022-11-30-at-17.25.24.png
 
  
 
@@ -85,7 +85,7 @@ ascending date; sorting by descending date.
 
  
 
-.. image::https://openbis.ch/wp-content/uploads/2022/11/Screenshot-2022-11-30-at-17.25.37.png
+.. image:: https://openbis.ch/wp-content/uploads/2022/11/Screenshot-2022-11-30-at-17.25.37.png
 
  
 

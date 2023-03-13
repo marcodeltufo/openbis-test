@@ -19,7 +19,7 @@ To move Collections in the Inventory:
 1.  Go to the Collection page you want to move
 2.  Click on **Edit Collection**
 
-.. image::https://openbis.ch/wp-content/uploads/2022/09/moveCollection-1.png
+.. image:: https://openbis.ch/wp-content/uploads/2022/09/moveCollection-1.png
 
  
 
@@ -29,7 +29,7 @@ To move Collections in the Inventory:
 
  
 
-.. image::https://openbis.ch/wp-content/uploads/2022/09/moveCollection-2-1024x547.png
+.. image:: https://openbis.ch/wp-content/uploads/2022/09/moveCollection-2-1024x547.png
 
  
 
@@ -42,7 +42,7 @@ there.
 
  
 
-.. image::https://openbis.ch/wp-content/uploads/2022/09/moveCollection-3-1024x226.png
+.. image:: https://openbis.ch/wp-content/uploads/2022/09/moveCollection-3-1024x226.png
 
  
 

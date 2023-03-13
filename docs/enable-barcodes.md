@@ -15,7 +15,7 @@ edit the **Settings**, as shown below.
 
  
 
-.. image::https://openbis.ch/wp-content/uploads/2020/02/Screenshot-2020-02-26-at-13.01.57-1024x705.png
+.. image:: https://openbis.ch/wp-content/uploads/2020/02/Screenshot-2020-02-26-at-13.01.57-1024x705.png
 
  
 
@@ -26,7 +26,7 @@ Generator** will be shown in the main menu under **Utilities**.
 
  
 
-.. image::https://openbis.ch/wp-content/uploads/2022/02/barcodes-menu.png
+.. image:: https://openbis.ch/wp-content/uploads/2022/02/barcodes-menu.png
 
 Information on how to use the Barcode functionality in openBIS can be
 found

@@ -21,7 +21,7 @@ for the *Object Types*.
 
  
 
-.. image::https://openbis.ch/wp-content/uploads/2022/11/export-object-types-1024x542.png
+.. image:: https://openbis.ch/wp-content/uploads/2022/11/export-object-types-1024x542.png
 
  
 
@@ -66,7 +66,7 @@ explained above:
 
  
 
-.. image::https://openbis.ch/wp-content/uploads/2022/11/import-exported-masterdata-1024x476.png
+.. image:: https://openbis.ch/wp-content/uploads/2022/11/import-exported-masterdata-1024x476.png
 
  
 

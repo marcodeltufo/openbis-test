@@ -24,6 +24,6 @@ always be associated with the *Dataset* *type* **Analysis Notebook**.
 
  
 
-.. image::https://openbis.ch/wp-content/uploads/2020/02/Screenshot-2020-02-26-at-10.24.58-1024x338.png
+.. image:: https://openbis.ch/wp-content/uploads/2020/02/Screenshot-2020-02-26-at-10.24.58-1024x338.png
 
 Updated on November 30, 2022

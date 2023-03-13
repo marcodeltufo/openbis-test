@@ -22,14 +22,14 @@ the archiving buttons are not shown, and they need to be enabled by an
 *Instance admin* or even a *group admin* in the case of a multi-group
 instance. This is done in the ELN Settings, as shown below.
 
-.. image::https://openbis.ch/wp-content/uploads/2021/06/enable-archiving-button.png
+.. image:: https://openbis.ch/wp-content/uploads/2021/06/enable-archiving-button.png
 
  
 
 In addition, the Unarchiving helper tool should also be enabled in the
 ELN Settings:
 
-.. image::https://openbis.ch/wp-content/uploads/2021/06/enable-unarchiving-helper-tool.png
+.. image:: https://openbis.ch/wp-content/uploads/2021/06/enable-unarchiving-helper-tool.png
 
  
 

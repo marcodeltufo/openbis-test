@@ -22,13 +22,13 @@ Procedure:
 3.  From the **New Template** tab select select the *Object type* for
     which you want to have a template.
 
-.. image::https://openbis.ch/wp-content/uploads/2022/02/new-template-1024x401.png
+.. image:: https://openbis.ch/wp-content/uploads/2022/02/new-template-1024x401.png
 
  
 
  
 
-.. image::https://openbis.ch/wp-content/uploads/2022/02/select-object-type-template-1024x415.png
+.. image:: https://openbis.ch/wp-content/uploads/2022/02/select-object-type-template-1024x415.png
 
 1.  Fill in the fields as desired.
 2.  **Save.**
@@ -37,7 +37,7 @@ Procedure:
 Your templates will be show in the table in the **Templates** section,
 as shown below
 
-.. image::https://openbis.ch/wp-content/uploads/2022/02/templates-table-1-1024x442.png
+.. image:: https://openbis.ch/wp-content/uploads/2022/02/templates-table-1-1024x442.png
 
  
 

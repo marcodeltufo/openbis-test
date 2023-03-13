@@ -14,7 +14,7 @@ The main menu can be customised from the **Settings**, under
 
  
 
-.. image::https://openbis.ch/wp-content/uploads/2022/03/settings.png
+.. image:: https://openbis.ch/wp-content/uploads/2022/03/settings.png
 
  
 
@@ -26,7 +26,7 @@ The main menu can be customised from the **Settings**, under
 
  
 
-.. image::https://openbis.ch/wp-content/uploads/2020/02/Screenshot-2020-02-26-at-10.11.14-1024x708.png
+.. image:: https://openbis.ch/wp-content/uploads/2020/02/Screenshot-2020-02-26-at-10.11.14-1024x708.png
 
  
 
@@ -100,7 +100,7 @@ are shown (see picture below).
 
  
 
-.. image::https://openbis.ch/wp-content/uploads/2022/03/exp-steps-main-menu-labnotebook.png
+.. image:: https://openbis.ch/wp-content/uploads/2022/03/exp-steps-main-menu-labnotebook.png
 
  
 
@@ -119,7 +119,7 @@ this option already selected. 
 
  
 
-.. image::https://openbis.ch/wp-content/uploads/2022/03/settings-object-type-menu-1024x451.png
+.. image:: https://openbis.ch/wp-content/uploads/2022/03/settings-object-type-menu-1024x451.png
 
  
 

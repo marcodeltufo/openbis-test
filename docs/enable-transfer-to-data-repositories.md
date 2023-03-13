@@ -26,7 +26,7 @@ Procedure:
 2.  Select **showZenodoExportBuilder** in the **Main Menu** section.
 3.  **Save.**
 
-.. image::https://openbis.ch/wp-content/uploads/2020/02/Screenshot-2020-02-26-at-10.53.37-1024x679.png
+.. image:: https://openbis.ch/wp-content/uploads/2020/02/Screenshot-2020-02-26-at-10.53.37-1024x679.png
 
  
 
@@ -36,6 +36,6 @@ see the change):
 
  
 
-.. image::https://openbis.ch/wp-content/uploads/2022/02/zenodo-export.png
+.. image:: https://openbis.ch/wp-content/uploads/2022/02/zenodo-export.png
 
 Updated on November 30, 2022
