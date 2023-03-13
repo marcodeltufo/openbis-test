@@ -1,7 +1,6 @@
 Associate File Types to Dataset Types
 =====================================
 
-<a href="#" class="wedocs-print-article wedocs-hide-print wedocs-hide-mobile" title="Print this article"><em></em></a>
 
   
 It is possible to associate given file types to given *Dataset* *types*.
