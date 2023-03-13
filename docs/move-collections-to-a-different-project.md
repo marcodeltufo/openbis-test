@@ -19,7 +19,7 @@ To move Collections in the Inventory:
 1.  Go to the Collection page you want to move
 2.  Click on **Edit Collection**
 
-<img src="https://openbis.ch/wp-content/uploads/2022/09/moveCollection-1.png" class="alignnone size-full wp-image-3583" sizes="(max-width: 933px) 100vw, 933px" srcset="https://openbis.ch/wp-content/uploads/2022/09/moveCollection-1.png 933w, https://openbis.ch/wp-content/uploads/2022/09/moveCollection-1-300x134.png 300w, https://openbis.ch/wp-content/uploads/2022/09/moveCollection-1-768x343.png 768w, https://openbis.ch/wp-content/uploads/2022/09/moveCollection-1-700x313.png 700w" width="933" height="417" />
+.. image::https://openbis.ch/wp-content/uploads/2022/09/moveCollection-1.png
 
  
 
@@ -29,7 +29,7 @@ To move Collections in the Inventory:
 
  
 
-<img src="https://openbis.ch/wp-content/uploads/2022/09/moveCollection-2-1024x547.png" class="alignnone size-large wp-image-3584" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://openbis.ch/wp-content/uploads/2022/09/moveCollection-2-1024x547.png 1024w, https://openbis.ch/wp-content/uploads/2022/09/moveCollection-2-300x160.png 300w, https://openbis.ch/wp-content/uploads/2022/09/moveCollection-2-768x410.png 768w, https://openbis.ch/wp-content/uploads/2022/09/moveCollection-2-700x374.png 700w, https://openbis.ch/wp-content/uploads/2022/09/moveCollection-2.png 1084w" width="1024" height="547" />
+.. image::https://openbis.ch/wp-content/uploads/2022/09/moveCollection-2-1024x547.png
 
  
 
@@ -42,7 +42,7 @@ there.
 
  
 
-<img src="https://openbis.ch/wp-content/uploads/2022/09/moveCollection-3-1024x226.png" class="alignnone size-large wp-image-3585" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://openbis.ch/wp-content/uploads/2022/09/moveCollection-3-1024x226.png 1024w, https://openbis.ch/wp-content/uploads/2022/09/moveCollection-3-300x66.png 300w, https://openbis.ch/wp-content/uploads/2022/09/moveCollection-3-768x169.png 768w, https://openbis.ch/wp-content/uploads/2022/09/moveCollection-3-700x154.png 700w, https://openbis.ch/wp-content/uploads/2022/09/moveCollection-3.png 1025w" width="1024" height="226" />
+.. image::https://openbis.ch/wp-content/uploads/2022/09/moveCollection-3-1024x226.png
 
  
 

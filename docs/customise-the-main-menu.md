@@ -14,7 +14,7 @@ The main menu can be customised from the **Settings**, under
 
  
 
-<img src="https://openbis.ch/wp-content/uploads/2022/03/settings.png" class="alignnone size-full wp-image-3399" sizes="(max-width: 354px) 100vw, 354px" srcset="https://openbis.ch/wp-content/uploads/2022/03/settings.png 354w, https://openbis.ch/wp-content/uploads/2022/03/settings-207x300.png 207w" width="354" height="514" />
+.. image::https://openbis.ch/wp-content/uploads/2022/03/settings.png
 
  
 
@@ -26,9 +26,7 @@ The main menu can be customised from the **Settings**, under
 
  
 
-<figure>
-<img src="https://openbis.ch/wp-content/uploads/2020/02/Screenshot-2020-02-26-at-10.11.14-1024x708.png" class="alignnone wp-image-1690 size-large" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://openbis.ch/wp-content/uploads/2020/02/Screenshot-2020-02-26-at-10.11.14-1024x708.png 1024w, https://openbis.ch/wp-content/uploads/2020/02/Screenshot-2020-02-26-at-10.11.14-300x207.png 300w, https://openbis.ch/wp-content/uploads/2020/02/Screenshot-2020-02-26-at-10.11.14-768x531.png 768w, https://openbis.ch/wp-content/uploads/2020/02/Screenshot-2020-02-26-at-10.11.14-700x484.png 700w" width="1024" height="708" alt="" />
-</figure>
+.. image::https://openbis.ch/wp-content/uploads/2020/02/Screenshot-2020-02-26-at-10.11.14-1024x708.png
 
  
 
@@ -102,7 +100,7 @@ are shown (see picture below).
 
  
 
-<img src="https://openbis.ch/wp-content/uploads/2022/03/exp-steps-main-menu-labnotebook.png" class="alignnone size-full wp-image-3401" sizes="(max-width: 656px) 100vw, 656px" srcset="https://openbis.ch/wp-content/uploads/2022/03/exp-steps-main-menu-labnotebook.png 656w, https://openbis.ch/wp-content/uploads/2022/03/exp-steps-main-menu-labnotebook-300x142.png 300w" width="656" height="311" />
+.. image::https://openbis.ch/wp-content/uploads/2022/03/exp-steps-main-menu-labnotebook.png
 
  
 
@@ -121,7 +119,7 @@ this option already selected. 
 
  
 
-<img src="https://openbis.ch/wp-content/uploads/2022/03/settings-object-type-menu-1024x451.png" class="alignnone size-large wp-image-3396" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://openbis.ch/wp-content/uploads/2022/03/settings-object-type-menu-1024x451.png 1024w, https://openbis.ch/wp-content/uploads/2022/03/settings-object-type-menu-300x132.png 300w, https://openbis.ch/wp-content/uploads/2022/03/settings-object-type-menu-768x338.png 768w, https://openbis.ch/wp-content/uploads/2022/03/settings-object-type-menu-700x308.png 700w, https://openbis.ch/wp-content/uploads/2022/03/settings-object-type-menu.png 1360w" width="1024" height="451" /> 
+.. image::https://openbis.ch/wp-content/uploads/2022/03/settings-object-type-menu-1024x451.png
 
  
 

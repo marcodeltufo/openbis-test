@@ -10,7 +10,7 @@ UI, as shown below.
 
  
 
-<img src="https://openbis.ch/wp-content/uploads/2022/11/database-navigation-amdin-ui.png" class="alignnone size-full wp-image-3768" sizes="(max-width: 1006px) 100vw, 1006px" srcset="https://openbis.ch/wp-content/uploads/2022/11/database-navigation-amdin-ui.png 1006w, https://openbis.ch/wp-content/uploads/2022/11/database-navigation-amdin-ui-300x271.png 300w, https://openbis.ch/wp-content/uploads/2022/11/database-navigation-amdin-ui-768x695.png 768w, https://openbis.ch/wp-content/uploads/2022/11/database-navigation-amdin-ui-700x633.png 700w" width="1006" height="910" />
+.. image::https://openbis.ch/wp-content/uploads/2022/11/database-navigation-amdin-ui.png
 
  
 
@@ -34,7 +34,7 @@ It is possible to filter the menu by code or name of the desired entity.
 
  
 
-<img src="https://openbis.ch/wp-content/uploads/2022/11/database-filter-admin-ui-1.png" class="alignnone size-full wp-image-3771" sizes="(max-width: 429px) 100vw, 429px" srcset="https://openbis.ch/wp-content/uploads/2022/11/database-filter-admin-ui-1.png 429w, https://openbis.ch/wp-content/uploads/2022/11/database-filter-admin-ui-1-300x137.png 300w" width="429" height="196" />
+.. image::https://openbis.ch/wp-content/uploads/2022/11/database-filter-admin-ui-1.png
 
  
 
@@ -56,7 +56,7 @@ menu, as show in the picture below.
 
  
 
-<img src="https://openbis.ch/wp-content/uploads/2022/11/database-navigation-tabs-1024x496.png" class="alignnone size-large wp-image-3772" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://openbis.ch/wp-content/uploads/2022/11/database-navigation-tabs-1024x496.png 1024w, https://openbis.ch/wp-content/uploads/2022/11/database-navigation-tabs-300x145.png 300w, https://openbis.ch/wp-content/uploads/2022/11/database-navigation-tabs-768x372.png 768w, https://openbis.ch/wp-content/uploads/2022/11/database-navigation-tabs-700x339.png 700w" width="1024" height="496" />
+.. image::https://openbis.ch/wp-content/uploads/2022/11/database-navigation-tabs-1024x496.png
 
  
 
@@ -75,7 +75,7 @@ ascending date; sorting by descending date.
 
  
 
-<img src="https://openbis.ch/wp-content/uploads/2022/11/Screenshot-2022-11-30-at-17.25.24.png" class="alignnone wp-image-3775" sizes="(max-width: 349px) 100vw, 349px" srcset="https://openbis.ch/wp-content/uploads/2022/11/Screenshot-2022-11-30-at-17.25.24.png 530w, https://openbis.ch/wp-content/uploads/2022/11/Screenshot-2022-11-30-at-17.25.24-300x118.png 300w" width="349" height="138" /><img src="https://openbis.ch/wp-content/uploads/2022/11/Screenshot-2022-11-30-at-17.25.06.png" class="wp-image-3774 alignleft" sizes="(max-width: 374px) 100vw, 374px" srcset="https://openbis.ch/wp-content/uploads/2022/11/Screenshot-2022-11-30-at-17.25.06.png 534w, https://openbis.ch/wp-content/uploads/2022/11/Screenshot-2022-11-30-at-17.25.06-300x170.png 300w" width="374" height="212" />
+.. image::https://openbis.ch/wp-content/uploads/2022/11/Screenshot-2022-11-30-at-17.25.24.png
 
  
 
@@ -85,7 +85,7 @@ ascending date; sorting by descending date.
 
  
 
-<img src="https://openbis.ch/wp-content/uploads/2022/11/Screenshot-2022-11-30-at-17.25.37.png" class="alignnone size-large wp-image-3776" width="229" height="157" />
+.. image::https://openbis.ch/wp-content/uploads/2022/11/Screenshot-2022-11-30-at-17.25.37.png
 
  
 

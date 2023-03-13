@@ -21,7 +21,7 @@ for the *Object Types*.
 
  
 
-<img src="https://openbis.ch/wp-content/uploads/2022/11/export-object-types-1024x542.png" class="wp-image-3782 aligncenter" sizes="(max-width: 597px) 100vw, 597px" srcset="https://openbis.ch/wp-content/uploads/2022/11/export-object-types-1024x542.png 1024w, https://openbis.ch/wp-content/uploads/2022/11/export-object-types-300x159.png 300w, https://openbis.ch/wp-content/uploads/2022/11/export-object-types-768x407.png 768w, https://openbis.ch/wp-content/uploads/2022/11/export-object-types-700x371.png 700w, https://openbis.ch/wp-content/uploads/2022/11/export-object-types.png 1143w" width="597" height="316" />
+.. image::https://openbis.ch/wp-content/uploads/2022/11/export-object-types-1024x542.png
 
  
 
@@ -66,7 +66,7 @@ explained above:
 
  
 
-<img src="https://openbis.ch/wp-content/uploads/2022/11/import-exported-masterdata-1024x476.png" class="alignnone size-large wp-image-3785" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://openbis.ch/wp-content/uploads/2022/11/import-exported-masterdata-1024x476.png 1024w, https://openbis.ch/wp-content/uploads/2022/11/import-exported-masterdata-300x140.png 300w, https://openbis.ch/wp-content/uploads/2022/11/import-exported-masterdata-768x357.png 768w, https://openbis.ch/wp-content/uploads/2022/11/import-exported-masterdata-700x326.png 700w, https://openbis.ch/wp-content/uploads/2022/11/import-exported-masterdata.png 1105w" width="1024" height="476" />
+.. image::https://openbis.ch/wp-content/uploads/2022/11/import-exported-masterdata-1024x476.png
 
  
 

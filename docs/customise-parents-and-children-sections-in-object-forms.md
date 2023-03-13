@@ -23,9 +23,7 @@ Steps.](https://openbis.ch/index.php/docs/user-documentation-20-10-3/lab-noteboo
 
  
 
-<figure>
-<img src="https://openbis.ch/wp-content/uploads/2022/03/exp-step-parents-children-default.png" class="alignnone size-full wp-image-3096" sizes="(max-width: 898px) 100vw, 898px" srcset="https://openbis.ch/wp-content/uploads/2022/03/exp-step-parents-children-default.png 898w, https://openbis.ch/wp-content/uploads/2022/03/exp-step-parents-children-default-300x217.png 300w, https://openbis.ch/wp-content/uploads/2022/03/exp-step-parents-children-default-768x557.png 768w, https://openbis.ch/wp-content/uploads/2022/03/exp-step-parents-children-default-700x507.png 700w" width="898" height="651" alt="" />
-</figure>
+.. image::https://openbis.ch/wp-content/uploads/2022/03/exp-step-parents-children-default.png
 
  
 
@@ -35,9 +33,7 @@ Extension** in the **Settings.**
 
  
 
-<figure>
-<img src="https://openbis.ch/wp-content/uploads/2020/02/Screenshot-2020-02-26-at-13.22.59-1024x705.png" class="alignnone wp-image-1721 size-large" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://openbis.ch/wp-content/uploads/2020/02/Screenshot-2020-02-26-at-13.22.59-1024x705.png 1024w, https://openbis.ch/wp-content/uploads/2020/02/Screenshot-2020-02-26-at-13.22.59-300x206.png 300w, https://openbis.ch/wp-content/uploads/2020/02/Screenshot-2020-02-26-at-13.22.59-768x529.png 768w, https://openbis.ch/wp-content/uploads/2020/02/Screenshot-2020-02-26-at-13.22.59-700x482.png 700w" width="1024" height="705" alt="" />
-</figure>
+.. image::https://openbis.ch/wp-content/uploads/2020/02/Screenshot-2020-02-26-at-13.22.59-1024x705.png
 
 1.  **Section Name**. Enter an alternative name for the **Parents** or 
     **Children** section. If empty the default is used
@@ -69,8 +65,6 @@ Extension** in the **Settings.**
 The figure below shows how the **Annotation** of type **Comments** looks
 like in the *Experimental Step* form.
 
-<figure>
-<img src="https://openbis.ch/wp-content/uploads/2022/03/comments-gneral-protocol-as-parent-1024x549.png" class="alignnone size-large wp-image-3097" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://openbis.ch/wp-content/uploads/2022/03/comments-gneral-protocol-as-parent-1024x549.png 1024w, https://openbis.ch/wp-content/uploads/2022/03/comments-gneral-protocol-as-parent-300x161.png 300w, https://openbis.ch/wp-content/uploads/2022/03/comments-gneral-protocol-as-parent-768x412.png 768w, https://openbis.ch/wp-content/uploads/2022/03/comments-gneral-protocol-as-parent-700x375.png 700w, https://openbis.ch/wp-content/uploads/2022/03/comments-gneral-protocol-as-parent.png 1555w" width="1024" height="549" alt="" />
-</figure>
+.. image::https://openbis.ch/wp-content/uploads/2022/03/comments-gneral-protocol-as-parent-1024x549.png
 
 Updated on November 30, 2022
