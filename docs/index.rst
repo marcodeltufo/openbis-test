@@ -13,7 +13,7 @@ Sotto-sezione admin
 .. image:: https://openbis.ch/wp-content/uploads/2022/11/database-filter-admin-ui-1.png
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 4
    
    inventory-overview
    move-collections-to-a-different-project
