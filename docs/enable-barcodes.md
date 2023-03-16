@@ -1,7 +1,7 @@
 Enable Barcodes
 ===============
 
-<a href="#" class="wedocs-print-article wedocs-hide-print wedocs-hide-mobile" title="Print this article"><em></em></a>
+
 
 In order to be able to add custom barcodes to *Objects*, an *Instance
 Admin* needs to add the $BARCODE property to the object type for which
