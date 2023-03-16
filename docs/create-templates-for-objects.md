@@ -1,6 +1,7 @@
 Create Templates for Objects
 ============================
 
+<a href="#" class="wedocs-print-article wedocs-hide-print wedocs-hide-mobile" title="Print this article"><em></em></a>
 
   
 It is possible to create templates for *Objects*. Templates are useful
