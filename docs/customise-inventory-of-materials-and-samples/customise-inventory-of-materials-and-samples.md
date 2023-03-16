@@ -3,4 +3,4 @@ Customise Inventory of Materials and Samples
 
 Articles
 
-:ref: `Create Collections of Materials <create-collections-of-materials>`
+:doc:`Create Collections of Materials </customise-inventory-of-materials-and-samples/create-collections-of-materials>`
