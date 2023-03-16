@@ -15,6 +15,7 @@ Sotto-sezione admin prova1
 .. toctree::
    :maxdepth: 4
    
+   sottocartella/create-collections-of-materials
    inventory-overview
    move-collections-to-a-different-project
    customise-parents-and-children-sections-in-object-forms
@@ -28,4 +29,3 @@ Sotto-sezione admin prova1
    database-navigation-in-admin-ui
    inventory-of-materials-and-methods
    multi-group-set-up
-   sottocartella/*
