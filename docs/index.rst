@@ -25,5 +25,5 @@ Sotto-sezione admin
    enable-transfer-to-data-repositories
    enable-barcodes
    enable-archiving-to-long-term-storage
-   database-navigation-in-admin-uid
+   database-navigation-in-admin-ui
    inventory-of-materials-and-methods
