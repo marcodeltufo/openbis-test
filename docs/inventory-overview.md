@@ -38,7 +38,7 @@ Additional *Object* types and the
 corresponding *Collections* must be created by the *Instance admin*,
 based on the needs of the lab.
 
-This is a link to the Multi-group set up: :ref:`multi-group-set-up` 
+:doc:`Custom title <multi-group-set-up>`
 
 It is possible to add additional folders in the Inventory, for example
 for **Equipment** (see **[Create new Inventory
