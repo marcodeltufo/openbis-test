@@ -15,14 +15,3 @@ Sotto-sezione admin
 .. toctree::
    :maxdepth: 3
    
-   inventory-overview
-   move-collections-to-a-different-project
-   customise-parents-and-children-sections-in-object-forms
-   customise-the-main-menu
-   associate-file-types-to-dataset-types
-   masterdata-exports-and-imports
-   create-templates-for-objects
-   enable-transfer-to-data-repositories
-   enable-barcodes
-   enable-archiving-to-long-term-storage
-   database-navigation-in-admin-ui
