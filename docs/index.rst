@@ -15,7 +15,7 @@ Sotto-sezione admin prova1
 .. toctree::
    :maxdepth: 4
    
-   customise-inventory-of-materials-and-samples/customise-inventory-of-materials-and-samples
+   customise-inventory-of-materials-and-samples/*
    inventory-overview
    move-collections-to-a-different-project
    customise-parents-and-children-sections-in-object-forms
