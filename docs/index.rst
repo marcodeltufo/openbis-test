@@ -26,4 +26,3 @@ Sotto-sezione admin
    enable-barcodes
    enable-archiving-to-long-term-storage
    database-navigation-in-admin-ui
-   inventory-of-materials-and-methods
