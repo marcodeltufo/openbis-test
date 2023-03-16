@@ -7,7 +7,7 @@ Questa è una sezione di test
 
 In questa pagina è presente un indice di test:
 
-Sotto-sezione admin
+Sotto-sezione admin prova1
 -------------------
 
 .. image:: https://openbis.ch/wp-content/uploads/2022/11/database-filter-admin-ui-1.png
