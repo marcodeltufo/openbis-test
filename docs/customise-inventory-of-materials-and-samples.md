@@ -1,5 +1,4 @@
-"$var"
-====
+ 
 Create Collections of Materials
 ----
 
@@ -86,6 +85,7 @@ inside the *Project* folder:
  
 
 Updated on February 6, 2023
+ 
 Delete Collections
 ----
 
@@ -112,6 +112,7 @@ To delete an existing Collection:
 .. image:: https://openbis.ch/wp-content/uploads/2023/02/delete-collection-2.png
 
 Updated on February 6, 2023
+ 
 Enable Storage Widget on Sample Forms
 ----
 
@@ -151,6 +152,7 @@ For this, follow the steps below:
 .. image:: https://openbis.ch/wp-content/uploads/2019/09/Settings-storage-1024x452.png
 
 Updated on February 6, 2023
+ 
 Configure Lab Storage
 ----
 
@@ -209,6 +211,7 @@ the **Settings**, under **Utilities**.
 >         be specified.
 
 Updated on February 6, 2023
+ 
 Add metadata to Storage Positions
 ----
 
