@@ -1,4 +1,4 @@
-"${PWD##*/}"
+customise-inventory-of-materials-and-samples
 ====
  
 Create Collections of Materials
