@@ -1,4 +1,4 @@
-${PWD##*/}
+$var
 ====
 Create Collections of Materials
 ----
