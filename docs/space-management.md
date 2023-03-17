@@ -1,5 +1,8 @@
+space-management
+====
+ 
 Create new Inventory Spaces
-===========================
+----
 
 
 
@@ -124,8 +127,9 @@ It is possible to move a new *Space* to the Inventory, by editing the
  
 
 Updated on December 9, 2022
+ 
 Create new ELN Spaces
-=====================
+----
 
 
 
@@ -240,8 +244,9 @@ By default all *Spaces* created in the core UI are shown under the Lab
 Notebook part of the ELN UI.
 
 Updated on December 9, 2022
+ 
 Delete Spaces
-=============
+----
 
 
 
@@ -283,8 +288,9 @@ previously belonging to the *Space* are in the trashcan.
  
 
 Updated on August 2, 2022
+ 
 Move Spaces between Lab Notebook and Inventory
-==============================================
+----
 
 
 

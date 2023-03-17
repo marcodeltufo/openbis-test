@@ -1,5 +1,8 @@
+user-registration
+====
+ 
 openBIS roles
-=============
+----
 
 
 
@@ -160,8 +163,9 @@ admin UI.
  
 
 Updated on October 25, 2022
+ 
 User Profile
-============
+----
 
 
 
@@ -199,8 +203,9 @@ here, from the **Change Password** option under the **More..** dropdown.
 .. image:: https://openbis.ch/wp-content/uploads/2022/06/change-pwd.png
 
 Updated on June 28, 2022
+ 
 Assign home space to a user
-===========================
+----
 
 
 

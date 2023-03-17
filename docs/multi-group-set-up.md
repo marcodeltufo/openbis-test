@@ -1,5 +1,8 @@
+multi-group-set-up
+====
+ 
 General ELN Settings
-====================
+----
 
 
 
@@ -149,8 +152,9 @@ By unchecking this option, these sections will be shown by default.
  
 
 Updated on December 9, 2022
+ 
 Group ELN Settings
-==================
+----
 
 
 

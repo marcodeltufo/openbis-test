@@ -1,5 +1,8 @@
+new-entity-type-registration
+====
+ 
 Enable Rich Text Editor or Spreadsheet Widgets
-==============================================
+----
 
 
 
@@ -32,8 +35,9 @@ Procedure:
 .. image:: https://openbis.ch/wp-content/uploads/2022/03/custom-widget-gen-settings-1024x293.png
 
 Updated on October 19, 2022
+ 
 Enable Objects in dropdowns
-===========================
+----
 
 
 
@@ -54,8 +58,9 @@ show in dropdown menus can be customised from the Settings.
 .. image:: https://openbis.ch/wp-content/uploads/2020/02/Screenshot-2020-02-26-at-13.19.33-1-1024x537.png
 
 Updated on October 19, 2022
+ 
 Register masterdata via Excel
-=============================
+----
 
 
 
@@ -125,8 +130,9 @@ metadata registration can be found
 [here](https://unlimited.ethz.ch/display/openBISDoc2010/Excel+Import+Service).
 
 Updated on January 13, 2023
+ 
 Properties overview
-===================
+----
 
 
 
@@ -141,8 +147,9 @@ admin UI, as shown below.
 .. image:: https://openbis.ch/wp-content/uploads/2022/02/properties-overview-admin-UI-1024x640.png
 
 Updated on March 1, 2022
+ 
 Internal properties and vocabularies
-====================================
+----
 
 
 

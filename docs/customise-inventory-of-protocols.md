@@ -1,5 +1,8 @@
+customise-inventory-of-protocols
+====
+ 
 Create Collections of Protocols
-===============================
+----
 
 
 
@@ -33,8 +36,9 @@ Materials](https://openbis.ch/index.php/docs/admin-documentation-openbis-19-06-4
  
 
 Updated on March 1, 2022
+ 
 Enable Protocols in Settings
-============================
+----
 
 
 

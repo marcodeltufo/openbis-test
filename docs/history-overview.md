@@ -1,5 +1,8 @@
+history-overview
+====
+ 
 History of deletions
-====================
+----
 
 
 
@@ -46,8 +49,9 @@ For each deleted entry, the table shows:
 .. image:: https://openbis.ch/wp-content/uploads/2022/02/history-deletion-1024x507.png
 
 Updated on October 9, 2022
+ 
 History of freezing
-===================
+----
 
 
 
