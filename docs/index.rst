@@ -1,11 +1,11 @@
 TITOLO
-===
+======
 
 Contenuto
 
 .. toctree::
    :maxdepth: 4
-   inventory-overview
+
    inventory-overview
    customise-inventory-of-materials-and-samples
    customise-inventory-of-protocols
