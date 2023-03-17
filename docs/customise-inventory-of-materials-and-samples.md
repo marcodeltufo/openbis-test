@@ -1,5 +1,7 @@
+${PWD##*/}
+====
 Create Collections of Materials
-===============================
+----
 
 
 
@@ -85,7 +87,7 @@ inside the *Project* folder:
 
 Updated on February 6, 2023
 Delete Collections
-==================
+----
 
 
 
@@ -111,7 +113,7 @@ To delete an existing Collection:
 
 Updated on February 6, 2023
 Enable Storage Widget on Sample Forms
-=====================================
+----
 
 
 
@@ -150,7 +152,7 @@ For this, follow the steps below:
 
 Updated on February 6, 2023
 Configure Lab Storage
-=====================
+----
 
 
 
@@ -208,7 +210,7 @@ the **Settings**, under **Utilities**.
 
 Updated on February 6, 2023
 Add metadata to Storage Positions
-=================================
+----
 
 
 
