@@ -1,3 +1,4 @@
+User Registration
 ====
  
 openBIS roles
