@@ -1,4 +1,4 @@
-$var
+${var}
 ====
 Create Collections of Materials
 ----
